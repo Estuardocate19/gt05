@@ -1,2 +1,4 @@
 nombre: Estuardo
 correo: estuardo.com
+
+Se cambio el nombre de archivo en repositorio local, despues en repositorio remoto
